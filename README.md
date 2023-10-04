@@ -1,5 +1,6 @@
 # 🚀 Copy and Delete Data 🚀
-![](images/Software.png)
+![](images/Software.png)                                   
+
 This Python application is a simple Tkinter program to copy specific lines from a text file and then delete those lines from the file. 
 My personal use case is to automatically copy and delete a set of 5 lines containing account information from a text document and immediately post it as an ad. This way, I don't have to bother opening the text and dealing with it.
 ![](images/Example.png)
