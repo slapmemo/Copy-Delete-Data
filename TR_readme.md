@@ -1,4 +1,5 @@
 # 🚀 Veri Kopyalama ve Silme 🚀
+![](images/Software.png)
 
 Bu Python uygulaması, belirli bir metin dosyasındaki belirli satırları panoya kopyalamak ve ardından bu satırları dosyadan silmek için basit bir Tkinter uygulamasıdır.
 Benim kişisel kullanma sebebim 5 satırlı bir hesap bilgilerinin olduğu text belgesinden otomatik kopyalayıp ve silip hemen ilana koymam. Bu sayede Text'i açıp uğraşmıyorum.
@@ -20,9 +21,10 @@ Benim kişisel kullanma sebebim 5 satırlı bir hesap bilgilerinin olduğu text 
 - a ve b işlemini yaptıktan sonra TXT'nize verileri ekleyin. Varsayılan olarak `main.txt`
 - `main.py` dosyasını çalıştırarak uygulamayı başlatın.
 - `Kopyala ve Sil` düğmesine tıklayarak belirli satırları panoya kopyalayın ve dosyadan silin. Uygulamanın boyutunu istediğiniz gibi büyütüp küçültebilirsiniz.
+  
 ![](images/Software.png)
 
-## Nasıl exe yapabilirim?
+## Nasıl Executable yapabilirim?
 
 - Bu [linki](https://pypi.org/project/auto-py-to-exe/) inceleyebilirsiniz.
 
