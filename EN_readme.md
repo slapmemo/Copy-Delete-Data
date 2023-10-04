@@ -9,13 +9,13 @@ My personal use case is to automatically copy and delete a set of 5 lines contai
 ![](images/RangeOfRows.png)
 - b. You can provide the name of your txt file. It defaults to `main.txt.`
 ![](images/TxtName.png)
-## Kurulum
+## Installation
 
 - Download and install Python from [here](https://www.python.org/downloads/) 
 - Open a terminal or command prompt in the project directory.
 - Run the command `pip install -r requirements.txt` to install the necessary libraries.
 
-## Kullanım
+## Usage
 
 - After completing steps a and b, add data to your TXT file. Defaults to `main.txt`
 - Run the `main.py` file to start the application.
