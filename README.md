@@ -21,6 +21,7 @@ My personal use case is to automatically copy and delete a set of 5 lines contai
 - After completing steps a and b, add data to your TXT file. Defaults to `main.txt`
 - Run the `main.py` file to start the application.
 - Click the `Copy and Delete` button to copy specific lines to the clipboard and delete them from the file. You can resize the application window as you wish.
+  
 ![](images/Software.png)
 
 ## How to Create an Executable?
