@@ -28,4 +28,4 @@ My personal use case is to automatically copy and delete a set of 5 lines contai
 
 ## Contact
 - Email: slapmemo@gmail.com
-- Project Link: [GitHub](https://github.com/kullanici/veri-kopyalama-ve-silme)
+- Project Link: [GitHub](https://github.com/slapmemo/Copy-Delete-Data)
