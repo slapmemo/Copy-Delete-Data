@@ -28,4 +28,4 @@ Benim kişisel kullanma sebebim 5 satırlı bir hesap bilgilerinin olduğu text 
 
 ## İletişim 
 - E-posta: slapmemo@gmail.com
-- Proje Linki: [GitHub](https://github.com/kullanici/veri-kopyalama-ve-silme)
+- Proje Linki: [GitHub](https://github.com/slapmemo/Copy-Delete-Data)
